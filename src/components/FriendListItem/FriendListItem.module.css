@@ -1,0 +1,27 @@
+.avatar {
+    /* padding: 20px; */
+    width: 68px;
+    margin: 30px;
+}
+
+.name {
+    margin: 0;
+    font-size: 40px;
+    font-weight: 600;
+    padding: 0 20px;
+}
+
+.text {
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 0;
+}
+
+.isOnline {
+    color: green;
+}
+
+.isOffline {
+    color: red;
+}
+
